@@ -96,7 +96,26 @@
 | `DAY_01\ex_bow.ipynb`   | sklearn 언어 모델 |
 | `DAY_01\ex_token.ipynb` | 토큰화            |
 
-#### DAY01 실습과제
+### DAY02
+
+---
+
+<details>
+<summary> 전처리 및 토큰화 </summary>
+
+> -   말뭉치 전처리
+> -   토큰화
+
+</details>
+
+---
+
+| 파일명                         | 내용                   |
+| ------------------------------ | ---------------------- |
+| `DAY_02\ex_korpora.ipynb`      | 자연어 데이터셋 전처리 |
+| `DAY_02\ex_naver_review.ipynb` | 영화 리뷰 토큰화       |
+
+#### DAY02 실습과제
 
 ---
 
