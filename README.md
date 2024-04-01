@@ -129,10 +129,12 @@
 
 ---
 
-| 파일명                       | 내용                         |
-| ---------------------------- | ---------------------------- |
-| `DAY_03\ex_soynlp.ipynb`     | 학습 기반 토크나이저 soynlp  |
-| `DAY_03\ex_similarity.ipynb` | TF-IDF 기반 추천 시스템 구현 |
+| 파일명                       | 내용                               |
+| ---------------------------- | ---------------------------------- |
+| `DAY_03\ex_soynlp.ipynb`     | 학습 기반 토크나이저 soynlp        |
+| `DAY_03\ex_similarity.ipynb` | TF-IDF 기반 추천 시스템 구현       |
+| `DAY_03\ex_iterator.ipynb`   | iterator                           |
+| `DAY_03\ex_AGNEWS.ipynb`     | torchtext 라이브러리로 텍스트 분류 |
 
 #### DAY03 실습과제
 
