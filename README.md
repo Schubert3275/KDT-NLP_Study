@@ -115,7 +115,26 @@
 | `DAY_02\ex_korpora.ipynb`      | 자연어 데이터셋 전처리 |
 | `DAY_02\ex_naver_review.ipynb` | 영화 리뷰 토큰화       |
 
-#### DAY02 실습과제
+### DAY03
+
+---
+
+<details>
+<summary> 토크나이저 </summary>
+
+> -   soynlp
+> -   ckonlpy
+
+</details>
+
+---
+
+| 파일명                       | 내용                         |
+| ---------------------------- | ---------------------------- |
+| `DAY_03\ex_soynlp.ipynb`     | 학습 기반 토크나이저 soynlp  |
+| `DAY_03\ex_similarity.ipynb` | TF-IDF 기반 추천 시스템 구현 |
+
+#### DAY03 실습과제
 
 ---
 
