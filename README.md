@@ -136,7 +136,25 @@
 | `DAY_03\ex_iterator.ipynb`   | iterator                           |
 | `DAY_03\ex_AGNEWS.ipynb`     | torchtext 라이브러리로 텍스트 분류 |
 
-#### DAY03 실습과제
+### DAY04
+
+---
+
+<details>
+<summary> 순환신경망(RNN) </summary>
+
+> -   시계열 데이터를 다루기에 최적화된 인공신경망
+> -   입력과 출력을 시퀀스 단위로 처리하는 시퀀스 모델
+
+</details>
+
+---
+
+| 파일명                | 내용           |
+| --------------------- | -------------- |
+| `DAY_04\ex_rnn.ipynb` | 순환신경망 RNN |
+
+#### DAY04 실습과제
 
 ---
 
